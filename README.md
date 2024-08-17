@@ -40,5 +40,7 @@ The tile can be customized in various ways, such as:
 
 Add Call In device.mk
 
+```makefile
 PRODUCT_PACKAGES += \
     BatteryTile
+```
